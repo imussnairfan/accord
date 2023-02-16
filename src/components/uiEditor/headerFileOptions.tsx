@@ -53,13 +53,13 @@ const HeaderFileOptions: React.FC = function () {
                 exportAsJson();
             }
         },
-        {
+        /*{
             name: 'Export as svg',
             onClick: (e: React.MouseEvent<HTMLDivElement>) => {
                 toggleMenu();
                 exportAsSvg();
             }
-        },
+        },*/
         {
             name: 'Exit',
             onClick: (e: React.MouseEvent<HTMLDivElement>) => {
