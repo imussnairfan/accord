@@ -1,0 +1,404 @@
+{
+    "activePageIndex": 0,
+    "activeTool": "RECTANGLE",
+    "hoveredShapeId": null,
+    "clipboard": [
+        {
+            "id": "a4d0101e-467b-580a-f76e-a19ce0fd954f",
+            "name": "TEXT",
+            "type": "TEXT",
+            "x": 542,
+            "y": 158.04999542236328,
+            "x_unit": "px",
+            "y_unit": "px",
+            "style": {
+                "fill": "#000000",
+                "fillRule": "nonzero",
+                "stroke": "black",
+                "strokeWidth": 0,
+                "strokeWidth_unit": "px",
+                "strokeDasharray": [],
+                "strokeDashoffset": 0,
+                "strokeLinecap": "square",
+                "strokeOpacity": 1,
+                "strokeLinejoin": "miter",
+                "strokeMitterlimit": 4,
+                "fillOpacity": 1,
+                "rotate": 0,
+                "translate": [
+                    -519.5,
+                    129.5999984741211
+                ],
+                "skewX": 0,
+                "skewY": 0,
+                "scale": [
+                    1,
+                    1
+                ],
+                "cssFilters": {},
+                "svgFilters": {}
+            },
+            "render": true,
+            "text": "4. Now you can create can anything you want.",
+            "fontSize": 30,
+            "fontWeight": 400,
+            "fontStyle": "normal",
+            "fontFamily": "Papyrus",
+            "genericFontFamily": "sans-serif",
+            "pageId": "f37b5481-e106-9cc9-1aa0-b5e849dd15f3"
+        }
+    ],
+    "contextMenu": {
+        "show": false,
+        "x": 0,
+        "y": 0,
+        "clipboard": {
+            "x": 311.3688049316406,
+            "y": 280.0500011444092
+        }
+    },
+    "pages": [
+        {
+            "id": "f37b5481-e106-9cc9-1aa0-b5e849dd15f3",
+            "activeShapes": [],
+            "shapes": {
+                "22ef370e-8a09-527d-d92f-6e38c94f3ba6": {
+                    "id": "22ef370e-8a09-527d-d92f-6e38c94f3ba6",
+                    "name": "TEXT",
+                    "type": "TEXT",
+                    "x": 542,
+                    "y": 158.04999542236328,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#000000",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 2,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            -524,
+                            -111
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "text": "Introduction",
+                    "fontSize": 30,
+                    "fontWeight": 200,
+                    "fontStyle": "normal",
+                    "fontFamily": "Papyrus",
+                    "genericFontFamily": "sans-serif",
+                    "pageId": "f37b5481-e106-9cc9-1aa0-b5e849dd15f3"
+                },
+                "ccece882-adc5-7e80-8599-e4d3dacc3573": {
+                    "id": "ccece882-adc5-7e80-8599-e4d3dacc3573",
+                    "name": "TEXT",
+                    "type": "TEXT",
+                    "x": 542,
+                    "y": 158.04999542236328,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#000000",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            -524.3624877929688,
+                            -56.39998817443848
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "text": "1. After creating new file first save the file from top tool bar (FIle --> Save as --> *Select Name* --> Hit OK/Save)",
+                    "fontSize": 30,
+                    "fontWeight": 400,
+                    "fontStyle": "normal",
+                    "fontFamily": "Papyrus",
+                    "genericFontFamily": "sans-serif",
+                    "pageId": "f37b5481-e106-9cc9-1aa0-b5e849dd15f3"
+                },
+                "59097e88-83fe-153e-ae51-e12f3ab22c83": {
+                    "id": "59097e88-83fe-153e-ae51-e12f3ab22c83",
+                    "name": "TEXT",
+                    "type": "TEXT",
+                    "x": 542,
+                    "y": 158.04999542236328,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#000000",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            -521.1875,
+                            2.6000022888183594
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "text": "2. After successfully saving new file (with name e.g., On boarding Screen Wireframe) close that project.",
+                    "fontSize": 30,
+                    "fontWeight": 400,
+                    "fontStyle": "normal",
+                    "fontFamily": "Papyrus",
+                    "genericFontFamily": "sans-serif",
+                    "pageId": "f37b5481-e106-9cc9-1aa0-b5e849dd15f3"
+                },
+                "8d323888-1aef-c02d-ab7e-3fb1849b24ff": {
+                    "id": "8d323888-1aef-c02d-ab7e-3fb1849b24ff",
+                    "name": "TEXT",
+                    "type": "TEXT",
+                    "x": 542,
+                    "y": 158.04999542236328,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#000000",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            -521.1437377929688,
+                            66.5999927520752
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "text": "3. After saving new file closing that project again open that Project.",
+                    "fontSize": 30,
+                    "fontWeight": 400,
+                    "fontStyle": "normal",
+                    "fontFamily": "Papyrus",
+                    "genericFontFamily": "sans-serif",
+                    "pageId": "f37b5481-e106-9cc9-1aa0-b5e849dd15f3"
+                },
+                "a4d0101e-467b-580a-f76e-a19ce0fd954f": {
+                    "id": "a4d0101e-467b-580a-f76e-a19ce0fd954f",
+                    "name": "TEXT",
+                    "type": "TEXT",
+                    "x": 542,
+                    "y": 158.04999542236328,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#000000",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            -519.5,
+                            129.5999984741211
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "text": "4. Now you can create can anything you want.",
+                    "fontSize": 30,
+                    "fontWeight": 400,
+                    "fontStyle": "normal",
+                    "fontFamily": "Papyrus",
+                    "genericFontFamily": "sans-serif",
+                    "pageId": "f37b5481-e106-9cc9-1aa0-b5e849dd15f3"
+                },
+                "6e77920b-a1fe-34c7-4ab1-2bb8ce36cce8": {
+                    "id": "6e77920b-a1fe-34c7-4ab1-2bb8ce36cce8",
+                    "name": "TEXT",
+                    "type": "TEXT",
+                    "x": 542,
+                    "y": 158.04999542236328,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#000000",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            -527.8688049316406,
+                            227.5999927520752
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "text": "NOTE: Save your project before closing otherwise the progress will be lost.",
+                    "fontSize": 30,
+                    "fontWeight": 400,
+                    "fontStyle": "normal",
+                    "fontFamily": "Papyrus",
+                    "genericFontFamily": "sans-serif",
+                    "pageId": "f37b5481-e106-9cc9-1aa0-b5e849dd15f3"
+                },
+                "f9cc4ddf-92c0-ad08-ae5a-3eaa73a36845": {
+                    "id": "f9cc4ddf-92c0-ad08-ae5a-3eaa73a36845",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 298,
+                    "y": 338.0499954223633,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "transparent",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 1,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            -289,
+                            8
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 60,
+                    "height_unit": "px",
+                    "width": 1000,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "f37b5481-e106-9cc9-1aa0-b5e849dd15f3"
+                }
+            },
+            "filters": {},
+            "renderTree": [
+                {
+                    "id": "6e0ae2de-08cf-6613-0ddb-8c1365072080"
+                },
+                {
+                    "id": "9a882c02-83d6-4fa2-be12-dedc50d4cb37"
+                },
+                {
+                    "id": "22ef370e-8a09-527d-d92f-6e38c94f3ba6"
+                },
+                {
+                    "id": "f9cc4ddf-92c0-ad08-ae5a-3eaa73a36845"
+                }
+            ],
+            "svgStyle": {
+                "backgroundColor": "white",
+                "height": 100,
+                "width": 200
+            }
+        }
+    ],
+    "colors": {},
+    "gradients": {},
+    "images": {},
+    "name": "How to Use Accord Editor.",
+    "id": "986eddd8-3717-c03f-bb06-7f6f9fed367d",
+    "snapshots": [
+        "<defs></defs><text x=\"542px\" y=\"158.04999542236328px\" id=\"22ef370e-8a09-527d-d92f-6e38c94f3ba6\" class=\"inactive\" font-size=\"30\" font-weight=\"200\" font-style=\"normal\" fill=\"#000000\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"2px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(-524 -111) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"620.3625030517578 150.4499912261963\" font-family=\"Papyrus, sans-serif\">Introduction</text><text x=\"542px\" y=\"158.04999542236328px\" id=\"ccece882-adc5-7e80-8599-e4d3dacc3573\" class=\"inactive\" font-size=\"30\" font-weight=\"400\" font-style=\"normal\" fill=\"#000000\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(-524.3624877929688 -56.39998817443848) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"1282.1875 150.4499912261963\" font-family=\"Papyrus, sans-serif\">1. After creating new file first save the file from top tool bar (FIle --&gt; Save as --&gt; *Select Name* --&gt; Hit OK/Save)</text><text x=\"542px\" y=\"158.04999542236328px\" id=\"59097e88-83fe-153e-ae51-e12f3ab22c83\" class=\"inactive\" font-size=\"30\" font-weight=\"400\" font-style=\"normal\" fill=\"#000000\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(-521.1875 2.6000022888183594) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"1196.1437377929688 150.4499912261963\" font-family=\"Papyrus, sans-serif\">2. After successfully saving new file (with name e.g., On boarding Screen Wireframe) close that project.</text><text x=\"542px\" y=\"158.04999542236328px\" id=\"8d323888-1aef-c02d-ab7e-3fb1849b24ff\" class=\"inactive\" font-size=\"30\" font-weight=\"400\" font-style=\"normal\" fill=\"#000000\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(-521.1437377929688 66.5999927520752) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"966.5 150.4499912261963\" font-family=\"Papyrus, sans-serif\">3. After saving new file closing that project again open that Project.</text><text x=\"542px\" y=\"158.04999542236328px\" id=\"a4d0101e-467b-580a-f76e-a19ce0fd954f\" class=\"inactive\" font-size=\"30\" font-weight=\"400\" font-style=\"normal\" fill=\"#000000\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(-519.5 129.5999984741211) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"830.8687744140625 150.4499912261963\" font-family=\"Papyrus, sans-serif\">4. Now you can create can anything you want.</text><text x=\"542px\" y=\"158.04999542236328px\" id=\"6e77920b-a1fe-34c7-4ab1-2bb8ce36cce8\" class=\"inactive\" font-size=\"30\" font-weight=\"400\" font-style=\"normal\" fill=\"#000000\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(-527.8688049316406 227.5999927520752) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"1035.7000122070312 150.4499912261963\" font-family=\"Papyrus, sans-serif\">NOTE: Save your project before closing otherwise the progress will be lost.</text><rect x=\"298px\" y=\"338.0499954223633px\" height=\"60px\" width=\"1000px\" id=\"f9cc4ddf-92c0-ad08-ae5a-3eaa73a36845\" class=\"inactive\" fill=\"transparent\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"1px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(-289 8) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"798 368.0499954223633\" rx=\"0\" ry=\"0\"></rect>"
+    ]
+}
