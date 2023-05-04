@@ -114,16 +114,16 @@ const EditorHeader: React.FC<{}> = function () {
                         ? <GradientPalette />
                         : null
                 }
-                {
+                {/*
                     activeOption === ToolBarOptions.INSERT
                         ? <AddClipArtModal onClose={closeAddClipArtModal} addClipArt={addClipArt} />
                         : null
-                }
-                {
+                */}
+                {/*
                     activeOption === ToolBarOptions.HELPERS
                         ? <Helpers />
                         : null
-                }
+                */}
             </div>
         </StyledHeader>
     );

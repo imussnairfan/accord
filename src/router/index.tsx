@@ -1,4 +1,4 @@
-import React, { Suspense, lazy } from 'react';
+import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import LandingPage from '../views/landingPage';
 import UiEditor from '../views/uiEditor';

@@ -1,0 +1,1239 @@
+{
+    "activePageIndex": 0,
+    "activeTool": "RECTANGLE",
+    "hoveredShapeId": null,
+    "clipboard": [
+        {
+            "id": "8fafc188-228e-9688-e09e-f15862a6b81c",
+            "name": "RECTANGLE",
+            "type": "RECTANGLE",
+            "x": 206,
+            "y": 148,
+            "x_unit": "px",
+            "y_unit": "px",
+            "style": {
+                "fill": "#ffffff",
+                "fillRule": "nonzero",
+                "stroke": "black",
+                "strokeWidth": 0,
+                "strokeWidth_unit": "px",
+                "strokeDasharray": [],
+                "strokeDashoffset": 0,
+                "strokeLinecap": "square",
+                "strokeOpacity": 1,
+                "strokeLinejoin": "miter",
+                "strokeMitterlimit": 4,
+                "fillOpacity": 1,
+                "rotate": 0,
+                "translate": [
+                    295,
+                    329.5999755859375
+                ],
+                "skewX": 0,
+                "skewY": 0,
+                "scale": [
+                    1,
+                    1
+                ],
+                "cssFilters": {},
+                "svgFilters": {}
+            },
+            "render": true,
+            "height": 12,
+            "height_unit": "px",
+            "width": 87,
+            "width_unit": "px",
+            "rx": 0,
+            "ry": 0,
+            "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+        }
+    ],
+    "contextMenu": {
+        "show": false,
+        "x": 0,
+        "y": 0,
+        "clipboard": {
+            "x": 544.5,
+            "y": 483.60001373291016
+        }
+    },
+    "pages": [
+        {
+            "id": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea",
+            "activeShapes": [],
+            "shapes": {
+                "143cd332-d1f7-cd93-bfe3-2f6dd9f450da": {
+                    "id": "143cd332-d1f7-cd93-bfe3-2f6dd9f450da",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 355,
+                    "y": 48.599998474121094,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#f5f5f5",
+                        "fillRule": "nonzero",
+                        "stroke": "#c2c2c2",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            2,
+                            2
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 530,
+                    "height_unit": "px",
+                    "width": 406,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "e3c5ce79-d68d-f2cd-4077-c2ec3b3881d6": {
+                    "id": "e3c5ce79-d68d-f2cd-4077-c2ec3b3881d6",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 350,
+                    "y": 48.650001525878906,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#a3a3a3",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            0,
+                            0
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 60,
+                    "height_unit": "px",
+                    "width": 418,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "81890d39-2104-6242-bcd7-4329347be150": {
+                    "id": "81890d39-2104-6242-bcd7-4329347be150",
+                    "name": "CIRCLE",
+                    "type": "CIRCLE",
+                    "x": 395,
+                    "y": 77.6500015258789,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            2,
+                            1
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "radius": 15,
+                    "radius_unit": "px",
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "55b30a13-1d78-c85b-f585-4fc096946e87": {
+                    "id": "55b30a13-1d78-c85b-f585-4fc096946e87",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 614,
+                    "y": 176.6500015258789,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#c7c7c7",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0.8,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            -244,
+                            -44
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 60,
+                    "height_unit": "px",
+                    "width": 382,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "cda471f9-21fb-3d67-5955-78aee4c6254f": {
+                    "id": "cda471f9-21fb-3d67-5955-78aee4c6254f",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 393,
+                    "y": 143.6500015258789,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            0,
+                            0
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 38,
+                    "height_unit": "px",
+                    "width": 85,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "580870f1-39e2-5323-3fcc-b2a256a1202a": {
+                    "id": "580870f1-39e2-5323-3fcc-b2a256a1202a",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 380,
+                    "y": 161,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            111,
+                            0
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 75,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "c9e7b28a-93b6-311d-fb9f-723e105840e2": {
+                    "id": "c9e7b28a-93b6-311d-fb9f-723e105840e2",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 413,
+                    "y": 156,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            164.5,
+                            5
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 75,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "1bbb8246-6e1b-1027-241c-604dd815d792": {
+                    "id": "1bbb8246-6e1b-1027-241c-604dd815d792",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 401,
+                    "y": 165,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#4c5ff0",
+                        "fillRule": "nonzero",
+                        "stroke": "#bad0f2",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            266.5,
+                            -4
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 66,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "a83420b7-ca86-5012-f0ea-c85619b5dffa": {
+                    "id": "a83420b7-ca86-5012-f0ea-c85619b5dffa",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 236,
+                    "y": 257.6500015258789,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#c7c7c7",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            152,
+                            -32
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 110,
+                    "height_unit": "px",
+                    "width": 135,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "a9c2b16e-7b8a-f3a6-bbea-4cc68238a3b3": {
+                    "id": "a9c2b16e-7b8a-f3a6-bbea-4cc68238a3b3",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 236,
+                    "y": 257.6500015258789,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#a3a3a3",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "round",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "round",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            312.5,
+                            -29.5
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 25,
+                    "height_unit": "px",
+                    "width": 175,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "8a2fd833-0b27-78fc-738d-92d1293f265c": {
+                    "id": "8a2fd833-0b27-78fc-738d-92d1293f265c",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 190,
+                    "y": 145,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            361,
+                            117.64999389648438
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 149,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "4e430722-c1b0-7feb-3770-df50326126b1": {
+                    "id": "4e430722-c1b0-7feb-3770-df50326126b1",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 198,
+                    "y": 142,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            354,
+                            142.64999389648438
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 131,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "f671fbdd-cdf5-ddb1-3ef7-b4c2ffe0a98b": {
+                    "id": "f671fbdd-cdf5-ddb1-3ef7-b4c2ffe0a98b",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 390,
+                    "y": 165,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#4c5ff0",
+                        "fillRule": "nonzero",
+                        "stroke": "#bad0f2",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            162,
+                            144.64999389648438
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 23,
+                    "height_unit": "px",
+                    "width": 77,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "d7de5530-7df1-f32c-fc2e-2390ee7f10f9": {
+                    "id": "d7de5530-7df1-f32c-fc2e-2390ee7f10f9",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 614,
+                    "y": 176.6500015258789,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#c7c7c7",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0.8,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            -247.5,
+                            193.9499969482422
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 138,
+                    "height_unit": "px",
+                    "width": 385,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "7d0d7717-a8e8-ecfa-09e7-f77c103dde71": {
+                    "id": "7d0d7717-a8e8-ecfa-09e7-f77c103dde71",
+                    "name": "CIRCLE",
+                    "type": "CIRCLE",
+                    "x": 268,
+                    "y": 46.650001525878906,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            164,
+                            356.45001220703125
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "radius": 20,
+                    "radius_unit": "px",
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "9ca23dc5-e4fa-6e58-2b8d-c34fffd461d5": {
+                    "id": "9ca23dc5-e4fa-6e58-2b8d-c34fffd461d5",
+                    "name": "CIRCLE",
+                    "type": "CIRCLE",
+                    "x": 262,
+                    "y": 46.650001525878906,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            295,
+                            356.95001220703125
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "radius": 20,
+                    "radius_unit": "px",
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "bade0900-8645-ac3c-860c-c40562f9f601": {
+                    "id": "bade0900-8645-ac3c-860c-c40562f9f601",
+                    "name": "CIRCLE",
+                    "type": "CIRCLE",
+                    "x": 262,
+                    "y": 46.650001525878906,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 0,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            415,
+                            356.95001220703125
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "radius": 20,
+                    "radius_unit": "px",
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "62c88081-4551-cd4c-2835-6f20e2d29efd": {
+                    "id": "62c88081-4551-cd4c-2835-6f20e2d29efd",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 206,
+                    "y": 148,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            295.5,
+                            291.5999755859375
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 109,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "1e11c7ad-43b9-22b8-10de-9cd73781772a": {
+                    "id": "1e11c7ad-43b9-22b8-10de-9cd73781772a",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 202,
+                    "y": 173,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            299,
+                            285.5999755859375
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 109,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "8fafc188-228e-9688-e09e-f15862a6b81c": {
+                    "id": "8fafc188-228e-9688-e09e-f15862a6b81c",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 206,
+                    "y": 148,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            295,
+                            329.5999755859375
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 87,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "9944ccd1-d0b7-da3d-b100-3491aa167e6f": {
+                    "id": "9944ccd1-d0b7-da3d-b100-3491aa167e6f",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 206,
+                    "y": 148,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            172,
+                            291.5999755859375
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 108,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "cea60651-133c-9dd5-ad4e-ff725e805a02": {
+                    "id": "cea60651-133c-9dd5-ad4e-ff725e805a02",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 206,
+                    "y": 148,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            172,
+                            310.5999755859375
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 108,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "717478a1-0cb9-3cb4-fc3b-80e68eef04d1": {
+                    "id": "717478a1-0cb9-3cb4-fc3b-80e68eef04d1",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 206,
+                    "y": 148,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            171.5,
+                            330.5999755859375
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 87,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "bec96f01-e36b-ef98-2f6a-6e7ec62d8c51": {
+                    "id": "bec96f01-e36b-ef98-2f6a-6e7ec62d8c51",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 206,
+                    "y": 148,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            421.5,
+                            290.5999755859375
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 109,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "a518f755-b323-817a-ccb0-ff3f41643358": {
+                    "id": "a518f755-b323-817a-ccb0-ff3f41643358",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 206,
+                    "y": 148,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            421.5,
+                            310.5999755859375
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 109,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                },
+                "e6e751c6-2d4f-1c51-a438-a7bcbe0301d1": {
+                    "id": "e6e751c6-2d4f-1c51-a438-a7bcbe0301d1",
+                    "name": "RECTANGLE",
+                    "type": "RECTANGLE",
+                    "x": 206,
+                    "y": 148,
+                    "x_unit": "px",
+                    "y_unit": "px",
+                    "style": {
+                        "fill": "#ffffff",
+                        "fillRule": "nonzero",
+                        "stroke": "black",
+                        "strokeWidth": 0,
+                        "strokeWidth_unit": "px",
+                        "strokeDasharray": [],
+                        "strokeDashoffset": 0,
+                        "strokeLinecap": "square",
+                        "strokeOpacity": 1,
+                        "strokeLinejoin": "miter",
+                        "strokeMitterlimit": 4,
+                        "fillOpacity": 1,
+                        "rotate": 0,
+                        "translate": [
+                            421.5,
+                            330.5999755859375
+                        ],
+                        "skewX": 0,
+                        "skewY": 0,
+                        "scale": [
+                            1,
+                            1
+                        ],
+                        "cssFilters": {},
+                        "svgFilters": {}
+                    },
+                    "render": true,
+                    "height": 12,
+                    "height_unit": "px",
+                    "width": 87,
+                    "width_unit": "px",
+                    "rx": 0,
+                    "ry": 0,
+                    "pageId": "a29a3f24-f5fb-b46e-b87c-efd743ed6eea"
+                }
+            },
+            "filters": {},
+            "renderTree": [
+                {
+                    "id": "143cd332-d1f7-cd93-bfe3-2f6dd9f450da"
+                },
+                {
+                    "id": "e3c5ce79-d68d-f2cd-4077-c2ec3b3881d6"
+                },
+                {
+                    "id": "81890d39-2104-6242-bcd7-4329347be150"
+                },
+                {
+                    "id": "55b30a13-1d78-c85b-f585-4fc096946e87"
+                },
+                {
+                    "id": "fd3151ac-1427-68d5-02de-87ec3c2b6d02"
+                },
+                {
+                    "id": "cda471f9-21fb-3d67-5955-78aee4c6254f"
+                },
+                {
+                    "id": "7df8c626-9749-d066-61ff-9616fb3daf00"
+                },
+                {
+                    "id": "a83420b7-ca86-5012-f0ea-c85619b5dffa"
+                },
+                {
+                    "id": "55dc783e-9bcf-88a8-f39b-d898a684bd2d"
+                }
+            ],
+            "svgStyle": {
+                "backgroundColor": "white",
+                "height": 100,
+                "width": 100
+            }
+        }
+    ],
+    "colors": {},
+    "gradients": {},
+    "images": {},
+    "name": "low-fi design",
+    "id": "7ec197d7-60e2-04f2-f4d7-825f98c2e4f7",
+    "snapshots": [
+        "<defs></defs><rect x=\"355px\" y=\"48.599998474121094px\" height=\"530px\" width=\"406px\" id=\"143cd332-d1f7-cd93-bfe3-2f6dd9f450da\" class=\"inactive\" fill=\"#f5f5f5\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"#c2c2c2\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(2 2) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"558 313.5999984741211\" rx=\"0\" ry=\"0\"></rect><rect x=\"350px\" y=\"48.650001525878906px\" height=\"60px\" width=\"418px\" id=\"e3c5ce79-d68d-f2cd-4077-c2ec3b3881d6\" class=\"inactive\" fill=\"#a3a3a3\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(0 0) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"559 78.6500015258789\" rx=\"0\" ry=\"0\"></rect><circle cx=\"395px\" cy=\"77.6500015258789px\" r=\"15px\" id=\"81890d39-2104-6242-bcd7-4329347be150\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(2 1) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"395 77.6500015258789\"></circle><rect x=\"614px\" y=\"176.6500015258789px\" height=\"60px\" width=\"382px\" id=\"55b30a13-1d78-c85b-f585-4fc096946e87\" class=\"inactive\" fill=\"#c7c7c7\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0.8\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(-244 -44) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"805 206.6500015258789\" rx=\"0\" ry=\"0\"></rect><rect x=\"393px\" y=\"143.6500015258789px\" height=\"38px\" width=\"85px\" id=\"cda471f9-21fb-3d67-5955-78aee4c6254f\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(0 0) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"435.5 162.6500015258789\" rx=\"0\" ry=\"0\"></rect><rect x=\"380px\" y=\"161px\" height=\"12px\" width=\"75px\" id=\"580870f1-39e2-5323-3fcc-b2a256a1202a\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(111 0) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"417.5 167\" rx=\"0\" ry=\"0\"></rect><rect x=\"413px\" y=\"156px\" height=\"12px\" width=\"75px\" id=\"c9e7b28a-93b6-311d-fb9f-723e105840e2\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(164.5 5) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"450.5 162\" rx=\"0\" ry=\"0\"></rect><rect x=\"401px\" y=\"165px\" height=\"12px\" width=\"66px\" id=\"1bbb8246-6e1b-1027-241c-604dd815d792\" class=\"inactive\" fill=\"#4c5ff0\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"#bad0f2\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(266.5 -4) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"434 171\" rx=\"0\" ry=\"0\"></rect><rect x=\"236px\" y=\"257.6500015258789px\" height=\"110px\" width=\"135px\" id=\"a83420b7-ca86-5012-f0ea-c85619b5dffa\" class=\"inactive\" fill=\"#c7c7c7\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(152 -32) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"303.5 312.6500015258789\" rx=\"0\" ry=\"0\"></rect><rect x=\"236px\" y=\"257.6500015258789px\" height=\"25px\" width=\"175px\" id=\"a9c2b16e-7b8a-f3a6-bbea-4cc68238a3b3\" class=\"inactive\" fill=\"#a3a3a3\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"round\" stroke-opacity=\"1\" stroke-linejoin=\"round\" strokeMitterlimit=\"4\" transform=\"translate(312.5 -29.5) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"323.5 270.1500015258789\" rx=\"0\" ry=\"0\"></rect><rect x=\"190px\" y=\"145px\" height=\"12px\" width=\"149px\" id=\"8a2fd833-0b27-78fc-738d-92d1293f265c\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(361 117.64999389648438) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"264.5 151\" rx=\"0\" ry=\"0\"></rect><rect x=\"198px\" y=\"142px\" height=\"12px\" width=\"131px\" id=\"4e430722-c1b0-7feb-3770-df50326126b1\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(354 142.64999389648438) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"263.5 148\" rx=\"0\" ry=\"0\"></rect><rect x=\"390px\" y=\"165px\" height=\"23px\" width=\"77px\" id=\"f671fbdd-cdf5-ddb1-3ef7-b4c2ffe0a98b\" class=\"inactive\" fill=\"#4c5ff0\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"#bad0f2\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(162 144.64999389648438) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"428.5 176.5\" rx=\"0\" ry=\"0\"></rect><rect x=\"614px\" y=\"176.6500015258789px\" height=\"138px\" width=\"385px\" id=\"d7de5530-7df1-f32c-fc2e-2390ee7f10f9\" class=\"inactive\" fill=\"#c7c7c7\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0.8\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(-247.5 193.9499969482422) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"806.5 245.6500015258789\" rx=\"0\" ry=\"0\"></rect><circle cx=\"268px\" cy=\"46.650001525878906px\" r=\"20px\" id=\"7d0d7717-a8e8-ecfa-09e7-f77c103dde71\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(164 356.45001220703125) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"268 46.650001525878906\"></circle><circle cx=\"262px\" cy=\"46.650001525878906px\" r=\"20px\" id=\"9ca23dc5-e4fa-6e58-2b8d-c34fffd461d5\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(295 356.95001220703125) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"262 46.650001525878906\"></circle><circle cx=\"262px\" cy=\"46.650001525878906px\" r=\"20px\" id=\"bade0900-8645-ac3c-860c-c40562f9f601\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"0\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(415 356.95001220703125) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"262 46.650001525878906\"></circle><rect x=\"206px\" y=\"148px\" height=\"12px\" width=\"109px\" id=\"62c88081-4551-cd4c-2835-6f20e2d29efd\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(295.5 291.5999755859375) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"260.5 154\" rx=\"0\" ry=\"0\"></rect><rect x=\"202px\" y=\"173px\" height=\"12px\" width=\"109px\" id=\"1e11c7ad-43b9-22b8-10de-9cd73781772a\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(299 285.5999755859375) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"256.5 179\" rx=\"0\" ry=\"0\"></rect><rect x=\"206px\" y=\"148px\" height=\"12px\" width=\"87px\" id=\"8fafc188-228e-9688-e09e-f15862a6b81c\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(295 329.5999755859375) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"249.5 154\" rx=\"0\" ry=\"0\"></rect><rect x=\"206px\" y=\"148px\" height=\"12px\" width=\"108px\" id=\"9944ccd1-d0b7-da3d-b100-3491aa167e6f\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(172 291.5999755859375) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"260 154\" rx=\"0\" ry=\"0\"></rect><rect x=\"206px\" y=\"148px\" height=\"12px\" width=\"108px\" id=\"cea60651-133c-9dd5-ad4e-ff725e805a02\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(172 310.5999755859375) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"260 154\" rx=\"0\" ry=\"0\"></rect><rect x=\"206px\" y=\"148px\" height=\"12px\" width=\"87px\" id=\"717478a1-0cb9-3cb4-fc3b-80e68eef04d1\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(171.5 330.5999755859375) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"249.5 154\" rx=\"0\" ry=\"0\"></rect><rect x=\"206px\" y=\"148px\" height=\"12px\" width=\"109px\" id=\"bec96f01-e36b-ef98-2f6a-6e7ec62d8c51\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(421.5 290.5999755859375) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"260.5 154\" rx=\"0\" ry=\"0\"></rect><rect x=\"206px\" y=\"148px\" height=\"12px\" width=\"109px\" id=\"a518f755-b323-817a-ccb0-ff3f41643358\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(421.5 310.5999755859375) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"260.5 154\" rx=\"0\" ry=\"0\"></rect><rect x=\"206px\" y=\"148px\" height=\"12px\" width=\"87px\" id=\"e6e751c6-2d4f-1c51-a438-a7bcbe0301d1\" class=\"inactive\" fill=\"#ffffff\" fill-opacity=\"1\" fill-rule=\"nonzero\" stroke=\"black\" stroke-width=\"0px\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"square\" stroke-opacity=\"1\" stroke-linejoin=\"miter\" strokeMitterlimit=\"4\" transform=\"translate(421.5 330.5999755859375) scale(1 1) rotate(0) skewX(0) skewY(0)\" transform-origin=\"249.5 154\" rx=\"0\" ry=\"0\"></rect>"
+    ]
+}

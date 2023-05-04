@@ -14,7 +14,7 @@ export function exportAsJson() {
     document.body.removeChild(a);
 }
 
-export function exportAsSvg() {
+/*export function exportAsSvg() {
     const { page } = store.getState() as State;
     const svg = document.getElementById('svgEditor');
     const a = document.createElement("a");
@@ -27,4 +27,4 @@ export function exportAsSvg() {
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
-}
+}*/

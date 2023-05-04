@@ -1,0 +1,15 @@
+.note_1{
+    color: #cf0000;
+    font-weight: bold;
+}
+
+.button_open_project{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: black;
+    margin: 50px;
+    border-radius: 8px;
+}

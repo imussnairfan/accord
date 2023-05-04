@@ -28,8 +28,8 @@ export const ToolBarOptions = {
     TOOLS: 'Tools',
     COLORS: 'Colors',
     Gradients: 'Gradients',
-    INSERT: 'Insert',
-    HELPERS: 'Helpers'
+    //INSERT: 'Insert',
+    //HELPERS: 'Helpers'
 }
 
 export const multiPointShpes = [

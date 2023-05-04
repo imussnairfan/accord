@@ -38,9 +38,15 @@ const Projects: React.FC = function () {
         navigate('/editor')
     }
 
+    const mystyle1 = {
+        color: "black",
+        fontWeight: 'bold',
+        fontSize: '30px'
+    };
+
     return (
         <ProjectsContainer>
-            <h2>Accord Project Manager</h2>
+            <h2 style={mystyle1}>Accord Project Manager</h2>
             <div className='projectCardContainer'>
                 {
                     // rendering personal projects

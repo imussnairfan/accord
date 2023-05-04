@@ -11,16 +11,25 @@ import logo from '../../assets/accord_logo.png';
 
 const Header: React.FC = function () {
 
-    const mystyle1 = {
+    const btn1 = {
         color: "black",
         backgroundColor: "white",
         borderRadius: "20px",
+        borderWidth: '1px',
+        borderColor: 'black',
+        fontSize: '13px',
+        paddingLeft: '20px',
+        paddingRight: '20px'
     };
 
-    const mystyle2 = {
+    const btn2 = {
         color: "white",
         backgroundColor: "black",
         borderRadius: "20px",
+        borderWidth: '1px',
+        fontSize: '13px',
+        paddingLeft: '20px',
+        paddingRight: '20px'
     };
 
     const dispatch = useDispatch();
@@ -62,8 +71,8 @@ const Header: React.FC = function () {
         <StyledHeader>
             <img src={logo} alt="Accord logo" width="80" height="80"/>
             <nav>
-                <Button style={mystyle1} title='Import Json' onClick={importJsonHandler} />
-                <Button style={mystyle2} title='Create new file' onClick={createNewFileHandler} />
+                <Button style={btn1} title='Import Json' onClick={importJsonHandler} />
+                <Button style={btn2} title='Create new file' onClick={createNewFileHandler} />
             </nav>
             <input type='file' ref={fileInputRef} style={{ display: 'none' }} onChange={fileChangeHandler} />
         </StyledHeader>

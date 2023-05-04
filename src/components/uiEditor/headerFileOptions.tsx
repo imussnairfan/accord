@@ -1,7 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import styled, { css } from 'styled-components';
 import { THEME } from '../../theme/theme';
-import { exportAsJson, exportAsSvg } from '../../utils/fileOptionsCallback';
+import { exportAsJson, /*exportAsSvg*/ } from '../../utils/fileOptionsCallback';
 import Button from '../button.component';
 import Input from '../input.component';
 import Modal from '../modal.component';
@@ -182,7 +182,7 @@ const SaveAsModalAction = styled.div`
     display:flex;
     align-items:center;
     justify-content:space-between;
-    width:25%
+    width:50%
 `;
 
 export default HeaderFileOptions;
