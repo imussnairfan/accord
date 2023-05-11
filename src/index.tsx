@@ -8,12 +8,17 @@ import store from './store/store';
 import { ThemeProvider } from 'styled-components';
 import theme from './theme/theme';
 import {BrowserRouter} from 'react-router-dom';
+import AppManager from './manager/AppManager';
+import { AuthContextProvider } from './Auth/AuthContext';
+
 
 ReactDOM.render(
   <BrowserRouter>
     <Provider store={store}>
       <ThemeProvider theme={theme}>
-        <App />
+        <AuthContextProvider>
+          <App />
+        </AuthContextProvider>
       </ThemeProvider>
     </Provider>
   </BrowserRouter>,

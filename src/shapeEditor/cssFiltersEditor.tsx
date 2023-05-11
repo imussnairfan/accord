@@ -77,7 +77,7 @@ const CssFiltersEditor: React.FC<EditorProps> = function ({ shape }) {
 
     return (
         <div className='EditorCaegoryContainer'>
-            <div className='editorCategory'>CSS Filters</div>
+            {/*<div className='editorCategory'>CSS Filters</div>
             <NumberEditor
                 value={shape.style.cssFilters.blur || 0}
                 onChange={val => {
@@ -238,7 +238,7 @@ const CssFiltersEditor: React.FC<EditorProps> = function ({ shape }) {
                     </>
                 }
                 step={10}
-            />
+            />*/}
             <Button title='Add Drop-Shadow' onClick={addDropShadow} style={{ margin: 'auto', marginTop: '16px' }} />
             {
                 shape.style.cssFilters?.dropShadow?.map((shadow, idx) => (

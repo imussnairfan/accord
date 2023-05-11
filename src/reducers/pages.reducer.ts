@@ -409,6 +409,3 @@ const pagesReducer: Reducer<PAGES, PAGE_ACTION> = function (state: PAGES = clone
 };
 
 export default pagesReducer;
-
-
-

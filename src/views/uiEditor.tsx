@@ -19,8 +19,8 @@ const NftEditor: React.FC<{}> = function () {
 
 const EditorContainer = styled.div`
     ${(props) => {
-        const theme = (props.theme) as THEME;
-        return css`
+      const theme = (props.theme) as THEME;
+      return css`
         height:100%;
         display:grid;
         grid-template-rows:10fr 70fr 20fr;

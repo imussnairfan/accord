@@ -163,7 +163,7 @@ const ModifiedEditor = (WRAPPED_EDITOR: React.ComponentType<EditorProps>) => {
                     />
                 </div>
                 <CssFiltersEditor shape={shape} />
-                <SvgFilterEditor shape={shape} />
+                {/*<SvgFilterEditor shape={shape} />*/}
                 <WRAPPED_EDITOR shape={shape} />
             </EditorContainer>
         );

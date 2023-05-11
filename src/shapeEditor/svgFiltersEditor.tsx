@@ -55,7 +55,7 @@ const SvgFilterEditor: React.FC<EditorProps> = function ({ shape }) {
 
     return (
         <div className='EditorCaegoryContainer'>
-            <div className='editorCategory'>SVG Filters</div>
+            {/*<div className='editorCategory'>SVG Filters</div>
             <Button title='Add Inset Shadow' onClick={addInsetShadow} style={{ margin: '16px auto' }} />
             {
                 shape.style.svgFilters[FILTER_TYPES.INSET_SHADOW]?.map((filterId, idx) => {
@@ -164,7 +164,7 @@ const SvgFilterEditor: React.FC<EditorProps> = function ({ shape }) {
                         </React.Fragment>
                     );
                 })
-            }
+            }*/}
         </div>
     );
 }

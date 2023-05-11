@@ -9,9 +9,9 @@ import { State } from '../../store/store';
 import { getActiveTool } from '../../selector/selector';
 import ColorPalette from './colorPalette';
 import GradientPalette from './gradientPalette';
-import AddClipArtModal from './addClipArtModal';
+//import AddClipArtModal from './addClipArtModal';
 import { addShape } from '../../actions/pages/pages.actions';
-import Helpers from './helpers';
+//import Helpers from './helpers';
 import Pages from './pages';
 import HeaderFileOptions from './headerFileOptions';
 
