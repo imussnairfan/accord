@@ -1,0 +1,59 @@
+.list {
+    display: flex;
+    width: 100%;
+}
+
+.listContainer {
+    flex: 6;
+}
+
+.em_head{
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+}
+
+.datatable{
+    background-color: white;
+    padding: 30px;
+    margin: 50px;
+    border-radius: 30px;
+}
+
+.datatableTitle{
+    padding: 50px;
+}
+
+.link_span{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 2px;
+    background-color: white;
+    border-color: black;
+}
+
+.delete_icon{
+    width: 20px;
+    height: 20px;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.add_user_icon{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+    background-color: black;
+}
+
+.link{
+    width: 70px;
+}

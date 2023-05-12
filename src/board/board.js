@@ -1,0 +1,73 @@
+// Board.js
+import React, { useState } from 'react';
+import { collection, addDoc } from 'firebase/firestore';
+import { db } from '../firebase';
+import './board.css';
+
+const Board = () => {
+  const [error, setError] = useState(false);
+  const [taskid, setTaskNumber] = useState('');
+  const [title, setTitle] = useState('');
+  const [summary, setSummary] = useState('');
+
+  const handleTaskSubmit = async (e) => {
+    e.preventDefault();
+
+    try {
+      const taskData = {
+        taskid: taskid,
+        title: title,
+        summary: summary,
+        status: 'Open' // Set the task status as "Open"
+      };
+
+      // Add the task data to the "tasks" collection
+      const docRef = await addDoc(collection(db, 'tasks'), taskData);
+      console.log('Task added with ID: ', docRef.id);
+
+      // Clear the input fields
+      setTaskNumber('');
+      setTitle('');
+      setSummary('');
+      setError(false);
+    } catch (error) {
+      console.error('Error adding task: ', error);
+      setError(true);
+    }
+  };
+
+  return (
+    <div className="board_container">
+      <form className="formFlex" onSubmit={handleTaskSubmit}>
+        <span className="heading_txt">Add Task</span>
+        <input
+          className="txtBox"
+          type="text"
+          placeholder="Task Number"
+          value={taskid}
+          onChange={(e) => setTaskNumber(e.target.value)}
+        />
+        <input
+          className="txtBox"
+          type="text"
+          placeholder="Title"
+          value={title}
+          onChange={(e) => setTitle(e.target.value)}
+        />
+        <input
+          className="txtBox"
+          type="text"
+          placeholder="Summary"
+          value={summary}
+          onChange={(e) => setSummary(e.target.value)}
+        />
+        <button type="submit" className="submit_btn">
+          Add Task
+        </button>
+        {error && <span className="wrong_txt">Error Occurred</span>}
+      </form>
+    </div>
+  );
+};
+
+export default Board;

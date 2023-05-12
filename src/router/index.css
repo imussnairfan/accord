@@ -37,5 +37,15 @@
     padding-right: 10px;
     background-color:brown;
     border-radius: 20px;
+    cursor: pointer;
 }
 
+.icons{
+    height: 30px;
+    width: 30px;
+}
+
+.option_flex{
+    display: flex;
+    flex-direction: column;
+}

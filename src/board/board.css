@@ -1,4 +1,4 @@
-.new{
+.board_container{
     height: 100vh;
     display: flex;
     align-items: center;
@@ -10,21 +10,23 @@
   flex-direction: column;
   align-items: center;
   background-color: white;
+  padding: 50px;
   border-radius: 20px;
   box-shadow: 5px 5px 2px #000000;
 }
 
 .heading_txt{
-    font-size: 30px;
+    font-size: 50px;
     font-weight: bold;
     color: black;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .txtBox{
   width: 300px;
+  height: 30px;
   margin: 10px;
-  padding: 10px;
+  padding: 20px;
   border-radius: 30px;
   border-width: 2px;
   border-color: black;
@@ -40,41 +42,11 @@
   cursor: pointer;
   border-radius: 30px;
   border-width: 2px;
+  margin-top: 20px;
 }
 
-.img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-}
-
-th{
-    width: 200px;
-    height: 20px;
-}
-
-.formInput {
-  width: 40%;
-}
-
-.label {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.icon {
-  cursor: pointer;
-}
-
-.input {
-  width: 100%;
-  padding: 5px;
-  border: none;
-  border-bottom: 1px solid gray;
-}
-
-.formInput{
-  margin: 20px;
+.wrong_txt{
+  font-size: 20px;
+  color: red;
+  margin-top: 10px;
 }

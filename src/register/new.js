@@ -2,7 +2,8 @@ import './new.css';
 import { useEffect, useState } from "react";
 import { addDoc, collection, doc, serverTimestamp, setDoc, } from "firebase/firestore";
 import { createUserWithEmailAndPassword } from "firebase/auth";
-//import { ref, uploadBytesResumable, getDownloadURL } from "firebase/storage";
+import DriveFolderUploadOutlinedIcon from "@mui/icons-material/DriveFolderUploadOutlined";
+import { ref, uploadBytesResumable, getDownloadURL } from "firebase/storage";
 import { useNavigate } from "react-router-dom";
 import { auth, db, storage } from '../firebase';
 
@@ -13,7 +14,7 @@ const Register = () => {
   const [per, setPerc] = useState(null);
   const navigate = useNavigate()
 
-  /*useEffect(() => {
+  useEffect(() => {
     const uploadFile = () => {
       const name = new Date().getTime() + file.name;
 
@@ -50,7 +51,7 @@ const Register = () => {
       );
     };
     file && uploadFile();
-  }, [file]);*/
+  }, [file]);
 
   console.log(data);
 
@@ -85,7 +86,18 @@ const Register = () => {
       <div className='new'>
         <form className='formFlex' onSubmit={handleAdd}>
             <span className='heading_txt'>Register New Employee</span>
-            {/*<img className='img' src={file ? URL.createObjectURL(file) : "https://icon-library.com/images/no-image-icon/no-image-icon-0.jpg"} alt='Image'/>*/}
+            <img className='img' src={file ? URL.createObjectURL(file) : "https://icon-library.com/images/no-image-icon/no-image-icon-0.jpg"} alt='Image'/>
+            <div className="formInput">
+                <label htmlFor="file">
+                  Image: <DriveFolderUploadOutlinedIcon className="icon" />
+                </label>
+                <input
+                  type="file"
+                  id="file"
+                  onChange={(e) => setFile(e.target.files[0])}
+                  style={{ display: "none" }}
+                />
+              </div>
             <table>
               <tr>
                 <th>
