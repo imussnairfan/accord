@@ -104,13 +104,13 @@ const Register = () => {
                   <label className='label'>Username</label>
                 </th>
                 <th>
-                <input className='txtBox' id='username' label='username' type='text' placeholder='username' onChange={handleInput}/>
+                <input className='txtBox' id='username' label='username' type='text' placeholder='example' onChange={handleInput}/>
                 </th>
                 <th>
                   <label className='label'>Full Name</label>
                 </th>
                 <th>
-                  <input className='txtBox' id='full_name' label='full_name' type='text' placeholder='Full Name' onChange={handleInput}/>
+                  <input className='txtBox' id='full_name' label='full_name' type='text' placeholder='Mussna Irfan' onChange={handleInput}/>
                 </th>
               </tr>
               <tr>
@@ -118,7 +118,7 @@ const Register = () => {
                   <label className='label'>Email</label>
                 </th>
                 <th>
-                  <input className='txtBox' id='email' label='email' type='email' placeholder='email' onChange={handleInput}/>
+                  <input className='txtBox' id='email' label='email' type='email' placeholder='123@example.com' onChange={handleInput}/>
                 </th>
                 <th>
                   <label className='label'>Password</label>
@@ -132,13 +132,13 @@ const Register = () => {
                   <label className='label'>Phone number</label>
                 </th>
                 <th>
-                  <input className='txtBox' id='phone_number' label='phone_number' type='text' placeholder='Phone number' onChange={handleInput}/>
+                  <input className='txtBox' id='phone_number' label='phone_number' type='text' placeholder='+923320000000' onChange={handleInput}/>
                 </th>
                 <th>
                   <label className='label'>Country</label>
                 </th>
                 <th>
-                  <input className='txtBox' id='country' label='country' type='text' placeholder='Country' onChange={handleInput}/>
+                  <input className='txtBox' id='country' label='country' type='text' placeholder='Pakistan' onChange={handleInput}/>
                 </th>
               </tr>
               <tr>
@@ -146,13 +146,13 @@ const Register = () => {
                   <label className='label'>Designation</label>
                 </th>
                 <th>
-                  <input className='txtBox' id='designation' label='designation' type='text' placeholder='Designation' onChange={handleInput}/>
+                  <input className='txtBox' id='designation' label='designation' type='text' placeholder='Designer/Manager' onChange={handleInput}/>
                 </th>
                 <th>
                   <label className='label'>Reports to</label>
                 </th>
                 <th>
-                  <input className='txtBox' id='reports_to' label='reports_to' type='text' placeholder='Reports to' onChange={handleInput}/>
+                  <input className='txtBox' id='reports_to' label='reports_to' type='text' placeholder='Mr. Irfan' onChange={handleInput}/>
                 </th>
               </tr>
             </table>

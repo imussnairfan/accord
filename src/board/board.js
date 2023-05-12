@@ -40,27 +40,35 @@ const Board = () => {
     <div className="board_container">
       <form className="formFlex" onSubmit={handleTaskSubmit}>
         <span className="heading_txt">Add Task</span>
-        <input
-          className="txtBox"
-          type="text"
-          placeholder="Task Number"
-          value={taskid}
-          onChange={(e) => setTaskNumber(e.target.value)}
-        />
-        <input
-          className="txtBox"
-          type="text"
-          placeholder="Title"
-          value={title}
-          onChange={(e) => setTitle(e.target.value)}
-        />
-        <input
-          className="txtBox"
-          type="text"
-          placeholder="Summary"
-          value={summary}
-          onChange={(e) => setSummary(e.target.value)}
-        />
+        <table>
+          <tr>
+            <th>
+              <label className='label'>Task</label>
+            </th>
+            <th>
+            <input className="txtBox" type="text" placeholder="Task 69" value={taskid} onChange={(e) => setTaskNumber(e.target.value)} />
+            </th>
+          </tr>
+          <tr>
+            <th>
+              <label className='label'>Title</label>
+            </th>
+            <th>
+              <input className="txtBox" type="text" placeholder="Design low-fi navbar" value={title} onChange={(e) => setTitle(e.target.value)} />
+            </th>
+          </tr>
+          <tr>
+            <th>
+              <label className='label'>Description</label>
+            </th>
+            <th>
+            <input className="txtBox"  type="text" placeholder="Design a low-fi navigation bar of an android app" value={summary} onChange={(e) => setSummary(e.target.value)} />
+            </th>
+          </tr>
+        </table>
+        
+        
+        
         <button type="submit" className="submit_btn">
           Add Task
         </button>

@@ -32,11 +32,27 @@ const Login = () => {
     return (
       <div className='login'>
         <form className='formFlex' onSubmit={handleLogin}>
-            <span className='heading_txt'>Login</span>
-            <input className='txtBox' type='email' placeholder='email' onChange={(e) => setEmail(e.target.value)}/>
-            <input className='txtBox' type='password' placeholder='password' onChange={(e) => setPassword(e.target.value)}/>
+          <span className='heading_txt'>Login</span>
+          <table>
+            <tr>
+              <th>
+                <label className='label'>Email</label>
+              </th>
+              <th>
+                <input className='txtBox' type='email' placeholder='user@example.com' onChange={(e) => setEmail(e.target.value)}/>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <label className='label'>Passowrd</label>
+              </th>
+              <th>
+                <input className='txtBox' type='password' placeholder='password' onChange={(e) => setPassword(e.target.value)}/>
+              </th>
+            </tr>
+          </table>
             <button type='submit' className='submit_btn'>Login</button>
-            {error && <span className='wrong_txt'>Wrong email or password!</span>}
+          {error && <span className='wrong_txt'>Wrong email or password!</span>}
         </form>
       </div>
     );
