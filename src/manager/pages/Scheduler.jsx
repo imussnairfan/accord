@@ -1,60 +1,118 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { ScheduleComponent, ViewsDirective, ViewDirective, Day, Week, WorkWeek, Month, Agenda, Inject, Resize, DragAndDrop } from '@syncfusion/ej2-react-schedule';
 import { DatePickerComponent } from '@syncfusion/ej2-react-calendars';
-
-import { scheduleData } from '../data/dummy';
 import { Header } from '../components';
-
-// eslint-disable-next-line react/destructuring-assignment
-const PropertyPane = (props) => <div className="mt-5">{props.children}</div>;
+import { scheduleDataC } from '../data/dummy';
+import { collection, doc, addDoc, updateDoc, deleteDoc, onSnapshot, getDocs, setDoc } from 'firebase/firestore';
+import { db } from '../../firebase';
 
 const Scheduler = () => {
-  const [scheduleObj, setScheduleObj] = useState();
+  const [scheduleData, setScheduleData] = useState([]);
+  const [refreshKey, setRefreshKey] = useState(0);
 
-  const change = (args) => {
-    scheduleObj.selectedDate = args.value;
-    scheduleObj.dataBind();
+  useEffect(() => {
+    let isMounted = true;
+
+    const fetchData = async () => {
+      const querySnapshot = await getDocs(collection(db, 'events'));
+      const eventData = querySnapshot.docs.map((doc) => ({ ...doc.data(), Id: doc.id }));
+      if (isMounted) {
+        setScheduleData(eventData);
+      }
+    };
+
+    fetchData();
+
+    return () => {
+      isMounted = false;
+    };
+  }, []);
+
+  useEffect(() => {
+    console.log(scheduleData);
+  }, [scheduleData]);
+
+  const addEvent = async (event) => {
+    const eventData = {
+      Subject: event[0].Subject || '',
+      StartTime: event[0].StartTime ? new Date(event[0].StartTime) : null,
+      EndTime: event[0].EndTime ? new Date(event[0].EndTime) : null,
+      Location: event[0].Location || '',
+      Description: event[0].Description || '',
+      IsAllDay: event[0].IsAllDay || false,
+      RecurrenceRule: event[0].RecurrenceRule || null,
+      StartTimezone: event[0].StartTimezone || null,
+      EndTimezone: event[0].EndTimezone || null,
+      // Add other properties with default values or conditional checks
+    };
+  
+    console.log(eventData);
+    await addDoc(collection(db, 'events'), eventData);
+  };
+   
+  
+  const editEvent = async (event) => {
+    const eventRef = doc(db, 'events', event[0].Id);
+    console.log(event[0]);
+    console.log(eventRef);
+  
+    const updatedEvent = {
+      Subject: event[0].Subject || '',
+      StartTime: event[0].StartTime ? new Date(event[0].StartTime) : null,
+      EndTime: event[0].EndTime ? new Date(event[0].EndTime) : null,
+      Location: event[0].Location || '',
+      Description: event[0].Description || '',
+      IsAllDay: event[0].IsAllDay || false,
+      RecurrenceRule: event[0].RecurrenceRule || null,
+      StartTimezone: event[0].StartTimezone || null,
+      EndTimezone: event[0].EndTimezone || null,
+      // Add other properties with default values or conditional checks
+    };
+  
+    await updateDoc(eventRef, updatedEvent);
+  };
+  
+  
+  const removeEvent = async (event) => {
+    const eventRef = doc(db, 'events', event.Id);
+    await deleteDoc(eventRef);
+  };
+  
+  const onDragStart = (arg) => {
+    arg.navigation.enable = true;
   };
 
-  const onDragStart = (arg) => {
-    // eslint-disable-next-line no-param-reassign
-    arg.navigation.enable = true;
+  const currentDate = new Date();
+
+  const handleActionComplete = (args) => {
+    if (args.requestType === 'eventCreated') {
+      addEvent(args.data);
+    } else if (args.requestType === 'eventChanged') {
+      editEvent(args.data);
+    } else if (args.requestType === 'eventRemoved') {
+      removeEvent(args.data);
+    }
   };
 
   return (
     <div className="m-2 md:m-10 mt-24 p-2 md:p-10 bg-white rounded-3xl">
       <Header category="App" title="Accord Scheduler" />
       <ScheduleComponent
+        key={refreshKey}
         height="650px"
-        ref={(schedule) => setScheduleObj(schedule)}
-        selectedDate={new Date(2022, 11, 20)}
-        eventSettings={{ dataSource: scheduleData }}
+        selectedDate={currentDate}
+        eventSettings={{ dataSource: scheduleDataC }}
         dragStart={onDragStart}
+        actionComplete={handleActionComplete}
+        refetchResourcesOnResize={true}
       >
         <ViewsDirective>
-          { ['Day', 'Week', 'WorkWeek', 'Month', 'Agenda'].map((item) => <ViewDirective key={item} option={item} />)}
+          {['Day', 'Week', 'WorkWeek', 'Month', 'Agenda'].map((item) => (
+            <ViewDirective key={item} option={item} />
+          ))}
         </ViewsDirective>
         <Inject services={[Day, Week, WorkWeek, Month, Agenda, Resize, DragAndDrop]} />
       </ScheduleComponent>
-      <PropertyPane>
-        <table
-          style={{ width: '100%', background: 'white' }}
-        >
-          <tbody>
-            <tr style={{ height: '50px' }}>
-              <td style={{ width: '100%' }}>
-                <DatePickerComponent
-                  value={new Date(2021, 0, 10)}
-                  showClearButton={false}
-                  placeholder="Current Date"
-                  floatLabelType="Always"
-                  change={change}
-                />
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </PropertyPane>
     </div>
   );
 };

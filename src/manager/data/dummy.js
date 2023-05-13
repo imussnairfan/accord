@@ -423,45 +423,45 @@ export const employeesData = [
   },
 ];
 
-export const scheduleData = [
+export const scheduleDataC = [
   {
     Id: 1,
     Subject: 'Meeting with Fixel cloud Core team',
     Location: 'Google Meet',
-    StartTime: '2022-12-20T04:00:00.000Z',
-    EndTime: '2022-12-20T05:30:00.000Z',
+    StartTime: '2023-05-14T04:00:00.000Z',
+    EndTime: '2023-05-14T05:30:00.000Z',
     CategoryColor: '#1aaa55',
   },
   {
     Id: 2,
     Subject: 'FYP meeting with Mr. Tariq Naeem',
     Location: 'Zoom',
-    StartTime: '2022-12-21T06:30:00.000Z',
-    EndTime: '2022-12-21T08:30:00.000Z',
+    StartTime: '2023-05-14T06:30:00.000Z',
+    EndTime: '2023-05-14T08:30:00.000Z',
     CategoryColor: '#357cd2',
   },
   {
     Id: 3,
     Subject: 'FYP meeting with Accord main team',
     Location: 'Zoom',
-    StartTime: '2022-12-22T08:00:00.000Z',
-    EndTime: '2022-12-22T10:30:00.000Z',
+    StartTime: '2023-05-14T08:00:00.000Z',
+    EndTime: '2023-05-14T10:30:00.000Z',
     CategoryColor: '#7fa900',
   },
   {
     Id: 4,
     Subject: 'MLSA AU Core Team meeting',
     Location: 'Microsoft Teams',
-    StartTime: '2022-12-24T07:30:00.000Z',
-    EndTime: '2022-12-24T09:00:00.000Z',
+    StartTime: '2023-05-14T07:30:00.000Z',
+    EndTime: '2023-05-14T09:00:00.000Z',
     CategoryColor: '#ea7a57',
   },
   {
     Id: 5,
     Subject: 'Graphics Team of AUCIS preworkshop meeting',
     Location: 'Zoom',
-    StartTime: '2022-12-24T04:30:00.000Z',
-    EndTime: '2022-12-24T05:30:00.000Z',
+    StartTime: '2023-05-14T04:30:00.000Z',
+    EndTime: '2023-05-14T05:30:00.000Z',
     CategoryColor: '#00bdae',
   },
 ];

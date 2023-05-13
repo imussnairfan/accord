@@ -36,6 +36,10 @@ const Board = () => {
     }
   };
 
+  const isFormValid = () => {
+    return taskid.trim() !== '' && title.trim() !== '' && summary.trim() !== '';
+  };
+
   return (
     <div className="board_container">
       <form className="formFlex" onSubmit={handleTaskSubmit}>
@@ -66,10 +70,7 @@ const Board = () => {
             </th>
           </tr>
         </table>
-        
-        
-        
-        <button type="submit" className="submit_btn">
+        <button type="submit" className="submit_btn" disabled={!isFormValid()}>
           Add Task
         </button>
         {error && <span className="wrong_txt">Error Occurred</span>}

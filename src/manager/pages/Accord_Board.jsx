@@ -10,8 +10,6 @@ const Accord_Board = () => {
 
   const [tasks, setTasks] = useState([]);
 
-  console.log(tasks);
-
   useEffect(() => {
     const fetchTasks = async () => {
       try {
@@ -19,7 +17,7 @@ const Accord_Board = () => {
         const fetchedTasks = querySnapshot.docs.map((doc) => {
           return { id: doc.id, ...doc.data() }; // Include the id property
         });
-        console.log(fetchedTasks); // Check if tasks are fetched correctly
+        //console.log(fetchedTasks); // Check if tasks are fetched correctly
         setTasks(fetchedTasks);
       } catch (error) {
         console.error('Error fetching tasks: ', error);
